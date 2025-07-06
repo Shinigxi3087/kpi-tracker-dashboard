@@ -13,5 +13,5 @@ expenses, and profit. Enabled real-time visualizations and automated profit marg
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/kpi-tracker.git
+git clone https://github.com/shinigxmi3087/kpi-tracker.git
 cd kpi-tracker
